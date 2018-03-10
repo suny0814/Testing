@@ -1,0 +1,60 @@
+/* nav */
+[logo.png]
+- Home
+- About
+- Pricing
+- Contact
+
+/* hero */
+# Welcome To Interact!
+## Start to create your own awesome landing pages
+
+/* feature */
+[icon1.png]
+### Learn Design
+Duis sed odio sit amet vuutate cursus a sit amet mauris morbi accumsan ipsum velit nam nec tellus viele.
+
+[icon2.png]
+### Enjoy Learning
+Duis sed odio sit amet vuutate cursus a sit amet mauris morbi accumsan ipsum velit nam nec tellus viele.
+
+[icon3.png]
+### Write Code
+Duis sed odio sit amet vuutate cursus a sit amet mauris morbi accumsan ipsum velit nam nec tellus viele.
+
+/* media */
+## We create the difference for you
+Proin gravida nibh vel velit auctor aliquet aenean sollicitudin, lorem quis bibendum auctor, nisi elit cuat ipsum, nec sagittis sem nibh id elit duis sed odio vulputate cursus a sit amet mauris.
+[video1.jpg]
+
+/* blog */
+## Learn web design from scratch
+
+[blog1.jpg]
+### Sketching User Interface
+Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor.
+
+[blog2.jpg]
+### HTML5 Basics
+Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor.
+
+[blog3.jpg]
+### CSS3 Basics
+Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor.
+
+/* review */
+Duis sed odio sit amet nibh vulputate cursus a sit amet mauris morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio sed non mauris vitae erat.
+
+[team1.jpg]
+## Maya Selina
+### Client ABC
+
+/* footer */
+## Get in touch
+### example@email.com
+
+- [facebook.png]
+- [twitter.png]
+- [linkedin.png]
+
+Copyright 2018
